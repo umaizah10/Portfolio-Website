@@ -36,10 +36,10 @@
     var keys = ['ai', 'cybersecurity', 'seo', 'software'];
     var labels = ['Artificial intelligence', 'Cybersecurity', 'SEO', 'Software development'];
     var descriptions = [
-      'AI is my main interest. I want to learn how intelligent systems are designed and how they can solve useful, real-world problems.',
-      'I’m interested in cybersecurity and learning how to protect systems, data, and people online.',
-      'I want to understand how search engines evaluate websites and how SEO can help people find useful information.',
-      'I enjoy learning how websites and software are built, and I want to develop the skills to create useful digital products.'
+      'Artificial intelligence is my main interest because it combines technology, creativity, and problem-solving. I want to learn how machine-learning systems understand patterns, make predictions, and support useful solutions in areas such as education, healthcare, and everyday life.',
+      'I’m interested in cybersecurity because keeping people, information, and digital services safe is increasingly important. I want to learn how security risks arise, how systems can be protected, and how responsible security practices help create a safer online world.',
+      'SEO interests me because it helps useful websites become easier to discover. I want to understand how search engines find and organize information, and how clear content, accessible design, and good technical structure can improve a website’s visibility.',
+      'I’m interested in software development because it turns ideas into tools people can use. I want to strengthen my programming skills, learn how to plan and build reliable applications, and create projects that solve real problems.'
     ];
     var tabs = document.querySelectorAll('.blueprint-tab');
     tabs.forEach(function (button, index) {
